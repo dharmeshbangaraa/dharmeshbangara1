@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Solimo Tucana Engineered Wood",
+    "brand": "Amazon Brand",
+    "price": 5000,
+    "description": "A Platform Bed is an alternative bed frame that features a supportive surface in the form of a solid, raised platform or slats that the mattress directly rests upon. It negates the need for a box spring like that of a traditional frame. The slats are usually built into the frame, but some beds come with a removable slatted rack.",
+    "image": "bed.jpg"
+  },
+  {
+    "title": "ANTICO WOODENIA Wooden Bedside Table",
+    "brand": "Amazon Brand",
+    "price": 10000,
+    "description": "This exquisitely hand carved and hand-brassed wooden bedside table is an epitome of the best craftsmanship. ANTICO WOODENIA believes in providing the product made up of best seasoned hard wood. The carving we use on this table for living room or bedroom is done by the best carvers of the Antique Art. This table with drawers for storage is best suited for keeping ostensible artefacts.",
+    "image": "beside-table.jpg"
+  },
+  {
+    "title": "chair",
+    "brand": "Amazon Brand",
+    "price": 9800,
+    "description": "Unique handicraft Child's Mango Wood Chair Size(LXBXH-14x10x24) inch This is a Antique child's folding chair. This chair has a quintessential French look and would be charming for display.Chair is intact and fold easily. This child's wooden chair would make a lovely one-of-a-kind baby shower gift or great gift for a new mom or grandmother.",
+    "image": "chair.jpg"
+  },
+  {
+    "title": "Full Back Executive Chair",
+    "brand": "Amazon Brand",
+    "price": 7800,
+    "description": "Ideal for personalized comfort, the AmazonBasics executive chair features a butterfly seat plate, adjustable settings and curved contours to help keep your back supported and your body properly aligned - an important component when sitting for prolonged periods of time. ",
+    "image": "executive-chair.jpg"
+  },
+  {
+    "title": "Home 3 Seater Sofa",
+    "brand": "Amazon Brand",
+    "price": 8750,
+    "description": "The primary material of this sofa is made of pinewood which is softwood with a great deal of stiffness and resistance to shock and is easy to work with. It is a lighter wood with a smooth finish ensuring consistency and aesthetic good look and makes furniture lightweight for easy portability. With high strength and stiffness-to-weight ratios, plywood is very cost-effective to use in structural applications.",
+    "image": "sofa.jpg"
+  },
+  {
+    "title": "iCare Home Furniture",
+    "brand": "Amazon Brand",
+    "price": 6540,
+    "description": "The bean bag comes with a sturdy stitch quality to seal the beans on the inside and keep them where they belong. It also has a perfect height to width ratio that gives it the ability to withstand heavy-duty and constant usage. Its double-layered locking makes it child-proof and tear-resistant.",
+    "image": "bean.jpg"
+  }
+]
